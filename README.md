@@ -48,13 +48,6 @@ LDAPToolbox is a versatile Java-based tool designed for efficient interaction wi
 **Contribution**
 Contributions are welcome! Please follow our contribution guidelines.
 
-
-## Screenshots
-Include screenshots or diagrams to showcase the tool in action.
-
-![LDAPToolbox in action]
-![LDAPToolbox into]
-
 **License**
 This project is licensed under the MIT License.
 
