@@ -48,6 +48,13 @@ LDAPToolbox is a versatile Java-based tool designed for efficient interaction wi
 **Contribution**
 Contributions are welcome! Please follow our contribution guidelines.
 
+
+## Screenshots
+Include screenshots or diagrams to showcase the tool in action.
+
+![LDAPToolbox in action](https://imgur.com/a/4vASEsY)
+![LDAPToolbox into](https://imgur.com/a/4vASEsY)
+
 **License**
 This project is licensed under the MIT License.
 
@@ -57,3 +64,6 @@ Special thanks to contributors who have helped make LDAPToolbox even better.
 ```bash
 
 Feel free to customize it further based on the specific details of your tool and any additional information you'd like to include!
+
+
+
