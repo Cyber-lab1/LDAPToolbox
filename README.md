@@ -35,7 +35,7 @@ LDAPToolbox is a versatile Java-based tool designed for efficient interaction wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/LDAPToolbox.git
+   git clone https://github.com/yazanhwedi/LDAPToolbox.git
 2. Compile the Java code:
 
    ```bash
