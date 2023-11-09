@@ -1,7 +1,10 @@
 # LDAPToolbox
 
 LDAPToolbox is a versatile Java-based tool designed for efficient interaction with LDAP (Lightweight Directory Access Protocol) directories. It provides a comprehensive set of features for managing and querying LDAP servers, making it a valuable asset for directory administration.
-![ldap-active-directory_authentication-spring-security-example]
+
+![ldap-active-directory_authentication-spring-security-example](https://github.com/yazanhwedi/LDAPToolbox/assets/50689975/106baea6-c5eb-42bc-b3c0-db8f664a660a)
+
+
 ## Features
 
 - **Error Handling:** Robust error handling ensures the tool gracefully handles exceptions during LDAP operations, enhancing overall stability.
