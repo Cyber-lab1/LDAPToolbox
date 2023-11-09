@@ -52,8 +52,8 @@ Contributions are welcome! Please follow our contribution guidelines.
 ## Screenshots
 Include screenshots or diagrams to showcase the tool in action.
 
-![LDAPToolbox in action](https://imgur.com/a/8opqrCg)
-![LDAPToolbox into](https://imgur.com/a/8opqrCg)
+![LDAPToolbox in action]
+![LDAPToolbox into]
 
 **License**
 This project is licensed under the MIT License.
