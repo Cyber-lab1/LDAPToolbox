@@ -35,6 +35,10 @@ LDAPToolbox is a versatile Java-based tool designed for efficient interaction wi
 
 ### Installation
 
+
+![LdapQueryExample2](https://github.com/yazanhwedi/LDAPToolbox/assets/50689975/13d56664-183b-41ff-a171-dda5e6dcd43e)
+
+
 1. Clone the repository:
 
    ```bash
